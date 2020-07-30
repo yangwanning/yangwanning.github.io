@@ -2,34 +2,28 @@
 date: 2017-01-1
 published: true
 sitemap: false
-title: "Butterfly"
-description: "Experience, architecture and design for a social networking app made for creatives"
+title: 'Chronic Kidney Disease: Factor Analysis' 
+description: "Data Analytics and Modeling"
 categories: app, ux, mobile
-disciplines: UX, App design, Information Architecture
+disciplines: Feature Engineering, Imbalanced Lable, Classification
 media: Mobile App
 ownership:
 client: Butterfly
-time_period: 2017
-thumbnail: "/projects/butterfly/plist-butterfly.jpg"
+time_period: 2020
+thumbnail: "/projects/CKD/ckd-theme.jpg"
 accent:
   color:
   inverted:
 website:
   button_text: Visit the site
-  url: https://www.butterfly.life/
+  url: https://github.com/yangwanning/Data-Analytics/blob/master/CDK.ipynb
 
 intro: |
   Butterfly is a social networking app which aims at connecting skilled
-  creatives across any discipline.
+  creatives across any discipline...
 
-  One of the most important goals of Butterfly is to provide reassurance to
-  artists that they still have the rights any work they upload, and that their
-  privacy is respected.
 
-  I created the architecture, data requirements and UX flow of the application,
-  first making a low fidelity prototype to test with users.
-
-content_layout:
+<!-- content_layout:
   - section_layout: 1col
     images:
       - caption: Main functional tabs
@@ -62,3 +56,4 @@ content_layout:
         width:
         height:
 ---
+ -->

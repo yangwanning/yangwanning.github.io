@@ -18,13 +18,13 @@ include:
   - _redirects
 
 # Site settings
-title: Matt Grey
-long-title: Matt Grey Design
-email: mattgreydesign@gmail.com
-description: "The selected portfolio of London based digital product designer Matt Grey"
+title: Wanning
+long-title: Wanning
+email: yangwn03@outlook.com
+description: "The selected projects of data science graduate Wanning"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://himatt.com" # the base hostname & protocol for your site
-timezone: Europe/London
+timezone: Europe/Rotterdam
 year: 2020
 start-year: 2010
 sitemap: true
@@ -69,12 +69,12 @@ compress_html: # http://jch.penibelst.de/
 navigation:
   - title: Projects
     url: /
-  - title: Fonts
-    url: /fonts
+  # - title: Fonts
+  #   url: /fonts
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
+  # - title: Contact
+  #   url: /contact
 
 permalink: /:title/
 

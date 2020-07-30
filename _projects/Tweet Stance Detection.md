@@ -1,25 +1,23 @@
 ---
 date: 2010-02-20
 published: true
-title: "Abstract Photo Experiments"
-description: "Experimental photographical series"
+title: "Tweet Stance Detection"
+description: "NLP"
 categories: photography
-disciplines: Photography, Photo manipulation
+disciplines: NLP, Classification
 media: Book
 ownership: Personal
 client:
-time_period: 2010
-thumbnail: "/projects/abstract-photography/plist-abstract-photography.jpg"
+time_period: 2018
+thumbnail: "/projects/Tweet/tweet-theme.png"
 accent:
   color:
   inverted:
 
 intro: |
-  An experimental photo-series aimed at exploring elements of photographs and
-  how they can be merged and manipulated to create an alternative environment,
-  with warped frames of reference for the viewer.
+  Build a system to reflect the public opinion regarding hot topics on Twitter.
 
-content_layout:
+<!-- content_layout:
   - section_layout: 1col-10-centered
     images:
       - caption:
@@ -62,3 +60,4 @@ content_layout:
         width:
         height:
 ---
+ -->

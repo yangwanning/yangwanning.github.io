@@ -1,6 +1,6 @@
 ---
 date: 2014-11-30
-published: true
+published: false
 title: "Saatchi Gallery"
 description: "Re-branding concept for the Saatchi Gallery"
 categories: branding, digital
@@ -20,7 +20,7 @@ website:
   url:
 
 intro: |
-  The Saatchi gallery is revered for its ability to introduce almost unknown
+  Wanning The Saatchi gallery is revered for its ability to introduce almost unknown
   artists into the public eye; the careers of Damien Hirst and Tracy Emin were
   launched from the exposure Saatchi gave them and the gallery boasts the
   largest private collection of artwork in the world.
