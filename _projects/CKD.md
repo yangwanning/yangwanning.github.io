@@ -19,8 +19,7 @@ website:
   url: https://github.com/yangwanning/Data-Analytics/blob/master/CDK.ipynb
 
 intro: |
-  Butterfly is a social networking app which aims at connecting skilled
-  creatives across any discipline...
+
 
 
 <!-- content_layout:
