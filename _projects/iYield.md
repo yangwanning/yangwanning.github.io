@@ -11,6 +11,7 @@ ownership: Alliants
 client: iYield
 time_period: 2017
 thumbnail: "/projects/iyield/plist-iyield.jpg"
+
 accent:
   color:
   inverted:
@@ -19,7 +20,7 @@ website:
   url: //www.iyield.co/
 
 intro: |
-  _iYield_ is a tool for calculating and visualising the estimated returns on
+  lllll _iYield_ is a tool for calculating and visualising the estimated returns on
   crowdfunded property investment. This project centred around an interactive
   tool that could be embedded in franchised property websites and sit alongside
   the details of a property to show potential ROI based on market data and
