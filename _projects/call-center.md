@@ -13,8 +13,8 @@ accent:
   color:
   inverted:
 website:
-  button_text: Visit the site
-  url: https://github.com/yangwanning/Data-Analytics/blob/master/call-center.ipynb
+  button_text: Project
+  url: https://github.com/yangwanning/Time-Series-Analysis/tree/master/Forecast%20PECO%20Call%20Center%20Labor
 
 intro: |
   Forecasted the labour requirements of PECO’S call center for the next three months

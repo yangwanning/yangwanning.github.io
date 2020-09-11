@@ -1,7 +1,7 @@
 ---
 date: 2010-02-20
 published: true
-title: "Tweet Stance Detection"
+title: "Tweet Sentiment Prediction"
 description: "NLP"
 categories: photography
 disciplines: NLP, Classification

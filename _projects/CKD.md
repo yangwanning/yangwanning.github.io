@@ -16,7 +16,7 @@ accent:
   inverted:
 website:
   button_text: Visit the site
-  url: https://github.com/yangwanning/Data-Analytics/blob/master/CDK.ipynb
+  url: https://github.com/yangwanning/CKD-Factor-Analysis
 
 intro:
   Chronic kidney disease has become a serious public health issue around the world. The overall prevelance of CKD in the general population is approximately 14% and is still increasing. The high growth of CKD can result in considerable healthcare cost and impose restrictions on many patients' daily livings. One way to reduce the economic burden of CKD would be <b>early intervention</b>, with <b>early diagnosis and treatment</b>, it is possible to slow the progression of CKD.
@@ -33,14 +33,20 @@ intro:
   1. Data Exploration<br>
   2. Feature Selection by Bayes Probability and Random Forest<br>
   3. Data Modeling and Evaluation<br>
-  4. Conclusion and Recommendations<br>
+
 
 
   <b>Conclusions:</b>
 
+  From our analysis, "Age" is a highly important factor, indicating that elderly people are more prone to develop CKD. Beside, factors such as "Hypertension", "Diabetes", "Anemia", "Stroke" are also likely to lead to kidney disease. Other factors like "Smoker", "Weight" and some other healthy issues such as "CHF (Congestive Heart Failure)", "CVD (cardiovascular disease)" could also constitute risks.
+
+  In order to make our survey easy for interviewees to conduct, we decided to chose 6 strongest risk factors as our survey questions. In this way, our final predictive model can be more simple and interpretable.
 
 
   <b>Recommendations:</b>
+
+  Finally, we hope people can pay more attention to their health as well as their families. Chronic kidney disease may not become apparent until your kidney function is significantly impaired. Thus, taking regular screenings for CKD is necessary if you are at high risk (check our analysis), especially for elderly people, and controlling conditions like diabetes (check our analysis) can also help.
+
     
 
 <!-- content_layout:
